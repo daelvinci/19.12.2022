@@ -1,0 +1,14 @@
+C:\Users\SONY\Desktop\19.12.2022\Car class\bin\Debug\netcoreapp3.1\Car class.exe
+C:\Users\SONY\Desktop\19.12.2022\Car class\bin\Debug\netcoreapp3.1\Car class.deps.json
+C:\Users\SONY\Desktop\19.12.2022\Car class\bin\Debug\netcoreapp3.1\Car class.runtimeconfig.json
+C:\Users\SONY\Desktop\19.12.2022\Car class\bin\Debug\netcoreapp3.1\Car class.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\19.12.2022\Car class\bin\Debug\netcoreapp3.1\Car class.dll
+C:\Users\SONY\Desktop\19.12.2022\Car class\bin\Debug\netcoreapp3.1\Car class.pdb
+C:\Users\SONY\Desktop\19.12.2022\Car class\obj\Debug\netcoreapp3.1\Car class.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\19.12.2022\Car class\obj\Debug\netcoreapp3.1\Car class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\19.12.2022\Car class\obj\Debug\netcoreapp3.1\Car class.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\19.12.2022\Car class\obj\Debug\netcoreapp3.1\Car class.AssemblyInfo.cs
+C:\Users\SONY\Desktop\19.12.2022\Car class\obj\Debug\netcoreapp3.1\Car class.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\19.12.2022\Car class\obj\Debug\netcoreapp3.1\Car class.dll
+C:\Users\SONY\Desktop\19.12.2022\Car class\obj\Debug\netcoreapp3.1\Car class.pdb
+C:\Users\SONY\Desktop\19.12.2022\Car class\obj\Debug\netcoreapp3.1\Car class.genruntimeconfig.cache
