@@ -28,7 +28,7 @@ namespace Car_class
 
         public void Drive(int Km)
         {
-            if(CurrentFuel == 0 && FuelFor1Km == 0)
+            if(CurrentFuel == 0 || FuelFor1Km == 0)
             {
                 Console.WriteLine("Error 404 System Not Found!");
             }
